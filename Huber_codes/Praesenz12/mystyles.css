@@ -1,0 +1,40 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+h1
+{
+    background-color:yellow;
+    border: 5px solid;
+    padding: 10px;
+    margin: 15px;
+}
+
+p
+{
+    background-color:darkviolet;
+}
+
+form p
+{
+    background-color: darkgreen;
+}
+
+p.speziell
+{
+    text-align: center;
+}
+
+#name
+{
+    background-color: blue;
+}
+
+label
+{
+    background-color: chartreuse;
+    display:block;
+}
